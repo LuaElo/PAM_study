@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3aiEloah_Luara\\PAM2\\PAMstudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|d:\\3aieloah_luara\\pam2\\pamstudy\\pamstudy\\services\\monitorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|solutionrelative:pamstudy\\services\\monitorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|d:\\3aieloah_luara\\pam2\\pamstudy\\pamstudy\\models\\monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|solutionrelative:pamstudy\\models\\monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|d:\\3aieloah_luara\\pam2\\pamstudy\\pamstudy\\models\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|solutionrelative:pamstudy\\models\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|d:\\3aieloah_luara\\pam2\\pamstudy\\pamstudy\\models\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|solutionrelative:pamstudy\\models\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|d:\\3aieloah_luara\\pam2\\pamstudy\\pamstudy\\models\\disponibilidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|solutionrelative:pamstudy\\models\\disponibilidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MonitorServices.cs",
+              "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\PAMstudy\\PAMstudy\\Services\\MonitorServices.cs",
+              "RelativeDocumentMoniker": "PAMstudy\\Services\\MonitorServices.cs",
+              "ToolTip": "D:\\3aiEloah_Luara\\PAM2\\PAMstudy\\PAMstudy\\Services\\MonitorServices.cs",
+              "RelativeToolTip": "PAMstudy\\Services\\MonitorServices.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:07:28.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\PAMstudy\\PAMstudy\\Models\\Conexao.cs",
+              "RelativeDocumentMoniker": "PAMstudy\\Models\\Conexao.cs",
+              "ToolTip": "D:\\3aiEloah_Luara\\PAM2\\PAMstudy\\PAMstudy\\Models\\Conexao.cs",
+              "RelativeToolTip": "PAMstudy\\Models\\Conexao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:55:33.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Disponibilidade.cs",
+              "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\PAMstudy\\PAMstudy\\Models\\Disponibilidade.cs",
+              "RelativeDocumentMoniker": "PAMstudy\\Models\\Disponibilidade.cs",
+              "ToolTip": "D:\\3aiEloah_Luara\\PAM2\\PAMstudy\\PAMstudy\\Models\\Disponibilidade.cs",
+              "RelativeToolTip": "PAMstudy\\Models\\Disponibilidade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:48:19.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Monitor.cs",
+              "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\PAMstudy\\PAMstudy\\Models\\Monitor.cs",
+              "RelativeDocumentMoniker": "PAMstudy\\Models\\Monitor.cs",
+              "ToolTip": "D:\\3aiEloah_Luara\\PAM2\\PAMstudy\\PAMstudy\\Models\\Monitor.cs",
+              "RelativeToolTip": "PAMstudy\\Models\\Monitor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:42:25.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Disciplina.cs",
+              "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\PAMstudy\\PAMstudy\\Models\\Disciplina.cs",
+              "RelativeDocumentMoniker": "PAMstudy\\Models\\Disciplina.cs",
+              "ToolTip": "D:\\3aiEloah_Luara\\PAM2\\PAMstudy\\PAMstudy\\Models\\Disciplina.cs",
+              "RelativeToolTip": "PAMstudy\\Models\\Disciplina.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:41:37.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
