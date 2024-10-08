@@ -1,25 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\3aiEloah_Luara\\PAM2\\PAMstudy\\",
+  "WorkspaceRootPath": "D:\\3aiEloah_Luara\\PAM2\\PAM_study\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|d:\\3aieloah_luara\\pam2\\pamstudy\\pamstudy\\services\\monitorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|d:\\3aieloah_luara\\pam2\\pam_study\\pamstudy\\views\\monitorview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|solutionrelative:pamstudy\\views\\monitorview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|d:\\3aieloah_luara\\pam2\\pam_study\\pamstudy\\views\\monitorview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|solutionrelative:pamstudy\\views\\monitorview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|d:\\3aieloah_luara\\pam2\\pam_study\\pamstudy\\viewmodels\\monitorviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|solutionrelative:pamstudy\\viewmodels\\monitorviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|d:\\3aieloah_luara\\pam2\\pam_study\\pamstudy\\services\\monitorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|solutionrelative:pamstudy\\services\\monitorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|d:\\3aieloah_luara\\pam2\\pamstudy\\pamstudy\\models\\monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|d:\\3aieloah_luara\\pam2\\pam_study\\pamstudy\\views\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|solutionrelative:pamstudy\\views\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|d:\\3aieloah_luara\\pam2\\pam_study\\pamstudy\\models\\monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|solutionrelative:pamstudy\\models\\monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|d:\\3aieloah_luara\\pam2\\pamstudy\\pamstudy\\models\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|d:\\3aieloah_luara\\pam2\\pam_study\\pamstudy\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|solutionrelative:pamstudy\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|d:\\3aieloah_luara\\pam2\\pam_study\\pamstudy\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|solutionrelative:pamstudy\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|d:\\3aieloah_luara\\pam2\\pam_study\\pamstudy\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|solutionrelative:pamstudy\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|d:\\3aieloah_luara\\pam2\\pam_study\\pamstudy\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|solutionrelative:pamstudy\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|d:\\3aieloah_luara\\pam2\\pam_study\\pamstudy\\models\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|solutionrelative:pamstudy\\models\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|d:\\3aieloah_luara\\pam2\\pamstudy\\pamstudy\\models\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|d:\\3aieloah_luara\\pam2\\pam_study\\pamstudy\\models\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|solutionrelative:pamstudy\\models\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|d:\\3aieloah_luara\\pam2\\pamstudy\\pamstudy\\models\\disponibilidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|d:\\3aieloah_luara\\pam2\\pam_study\\pamstudy\\models\\disponibilidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFE466B8-F96B-4B4A-BE13-5825556FE4B4}|PAMstudy\\PAMstudy.csproj|solutionrelative:pamstudy\\models\\disponibilidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,28 +62,145 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MonitorViewModels.cs",
+              "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\PAM_study\\PAMstudy\\ViewModels\\MonitorViewModels.cs",
+              "RelativeDocumentMoniker": "PAMstudy\\ViewModels\\MonitorViewModels.cs",
+              "ToolTip": "D:\\3aiEloah_Luara\\PAM2\\PAM_study\\PAMstudy\\ViewModels\\MonitorViewModels.cs",
+              "RelativeToolTip": "PAMstudy\\ViewModels\\MonitorViewModels.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:41:09.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MonitorView.xaml.cs",
+              "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\PAM_study\\PAMstudy\\Views\\MonitorView.xaml.cs",
+              "RelativeDocumentMoniker": "PAMstudy\\Views\\MonitorView.xaml.cs",
+              "ToolTip": "D:\\3aiEloah_Luara\\PAM2\\PAM_study\\PAMstudy\\Views\\MonitorView.xaml.cs",
+              "RelativeToolTip": "PAMstudy\\Views\\MonitorView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:40:40.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MonitorView.xaml",
+              "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\PAM_study\\PAMstudy\\Views\\MonitorView.xaml",
+              "RelativeDocumentMoniker": "PAMstudy\\Views\\MonitorView.xaml",
+              "ToolTip": "D:\\3aiEloah_Luara\\PAM2\\PAM_study\\PAMstudy\\Views\\MonitorView.xaml",
+              "RelativeToolTip": "PAMstudy\\Views\\MonitorView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-08T14:40:21.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Monitor.cs",
+              "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\PAM_study\\PAMstudy\\Models\\Monitor.cs",
+              "RelativeDocumentMoniker": "PAMstudy\\Models\\Monitor.cs",
+              "ToolTip": "D:\\3aiEloah_Luara\\PAM2\\PAM_study\\PAMstudy\\Models\\Monitor.cs",
+              "RelativeToolTip": "PAMstudy\\Models\\Monitor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:42:25.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MonitorServices.cs",
-              "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\PAMstudy\\PAMstudy\\Services\\MonitorServices.cs",
+              "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\PAM_study\\PAMstudy\\Services\\MonitorServices.cs",
               "RelativeDocumentMoniker": "PAMstudy\\Services\\MonitorServices.cs",
-              "ToolTip": "D:\\3aiEloah_Luara\\PAM2\\PAMstudy\\PAMstudy\\Services\\MonitorServices.cs",
+              "ToolTip": "D:\\3aiEloah_Luara\\PAM2\\PAM_study\\PAMstudy\\Services\\MonitorServices.cs",
               "RelativeToolTip": "PAMstudy\\Services\\MonitorServices.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T15:07:28.05Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "View.cs",
+              "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\PAM_study\\PAMstudy\\Views\\View.cs",
+              "RelativeDocumentMoniker": "PAMstudy\\Views\\View.cs",
+              "ToolTip": "D:\\3aiEloah_Luara\\PAM2\\PAM_study\\PAMstudy\\Views\\View.cs",
+              "RelativeToolTip": "PAMstudy\\Views\\View.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:35:16.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\PAM_study\\PAMstudy\\MainPage.xaml",
+              "RelativeDocumentMoniker": "PAMstudy\\MainPage.xaml",
+              "ToolTip": "D:\\3aiEloah_Luara\\PAM2\\PAM_study\\PAMstudy\\MainPage.xaml",
+              "RelativeToolTip": "PAMstudy\\MainPage.xaml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-08T14:28:49.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\PAM_study\\PAMstudy\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "PAMstudy\\MainPage.xaml.cs",
+              "ToolTip": "D:\\3aiEloah_Luara\\PAM2\\PAM_study\\PAMstudy\\MainPage.xaml.cs",
+              "RelativeToolTip": "PAMstudy\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:38:31.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\PAM_study\\PAMstudy\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "PAMstudy\\MauiProgram.cs",
+              "ToolTip": "D:\\3aiEloah_Luara\\PAM2\\PAM_study\\PAMstudy\\MauiProgram.cs",
+              "RelativeToolTip": "PAMstudy\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:28:46.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\PAM_study\\PAMstudy\\AppShell.xaml",
+              "RelativeDocumentMoniker": "PAMstudy\\AppShell.xaml",
+              "ToolTip": "D:\\3aiEloah_Luara\\PAM2\\PAM_study\\PAMstudy\\AppShell.xaml",
+              "RelativeToolTip": "PAMstudy\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-08T14:28:50.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Conexao.cs",
-              "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\PAMstudy\\PAMstudy\\Models\\Conexao.cs",
+              "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\PAM_study\\PAMstudy\\Models\\Conexao.cs",
               "RelativeDocumentMoniker": "PAMstudy\\Models\\Conexao.cs",
-              "ToolTip": "D:\\3aiEloah_Luara\\PAM2\\PAMstudy\\PAMstudy\\Models\\Conexao.cs",
+              "ToolTip": "D:\\3aiEloah_Luara\\PAM2\\PAM_study\\PAMstudy\\Models\\Conexao.cs",
               "RelativeToolTip": "PAMstudy\\Models\\Conexao.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,11 +209,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "Disponibilidade.cs",
-              "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\PAMstudy\\PAMstudy\\Models\\Disponibilidade.cs",
+              "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\PAM_study\\PAMstudy\\Models\\Disponibilidade.cs",
               "RelativeDocumentMoniker": "PAMstudy\\Models\\Disponibilidade.cs",
-              "ToolTip": "D:\\3aiEloah_Luara\\PAM2\\PAMstudy\\PAMstudy\\Models\\Disponibilidade.cs",
+              "ToolTip": "D:\\3aiEloah_Luara\\PAM2\\PAM_study\\PAMstudy\\Models\\Disponibilidade.cs",
               "RelativeToolTip": "PAMstudy\\Models\\Disponibilidade.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -73,24 +222,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Monitor.cs",
-              "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\PAMstudy\\PAMstudy\\Models\\Monitor.cs",
-              "RelativeDocumentMoniker": "PAMstudy\\Models\\Monitor.cs",
-              "ToolTip": "D:\\3aiEloah_Luara\\PAM2\\PAMstudy\\PAMstudy\\Models\\Monitor.cs",
-              "RelativeToolTip": "PAMstudy\\Models\\Monitor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T14:42:25.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Disciplina.cs",
-              "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\PAMstudy\\PAMstudy\\Models\\Disciplina.cs",
+              "DocumentMoniker": "D:\\3aiEloah_Luara\\PAM2\\PAM_study\\PAMstudy\\Models\\Disciplina.cs",
               "RelativeDocumentMoniker": "PAMstudy\\Models\\Disciplina.cs",
-              "ToolTip": "D:\\3aiEloah_Luara\\PAM2\\PAMstudy\\PAMstudy\\Models\\Disciplina.cs",
+              "ToolTip": "D:\\3aiEloah_Luara\\PAM2\\PAM_study\\PAMstudy\\Models\\Disciplina.cs",
               "RelativeToolTip": "PAMstudy\\Models\\Disciplina.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

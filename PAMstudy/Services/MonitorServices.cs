@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Diagnostics;
 using System.Linq;
 using System.Text;
@@ -15,11 +16,11 @@ namespace PAMstudy.Services
         private HttpClient client;
         private PAMstudy.Models.Monitor monitor;
 
-        private List<Models.Monitor> monitores;
+        private ObservableCollection<Models.Monitor> monitores;
 
         private JsonSerializerOptions _serializerOptions;
 
-        MonitorServices()
+         public MonitorServices()
         {
             
             client = new HttpClient();
@@ -30,7 +31,7 @@ namespace PAMstudy.Services
             };
 
         }
-        public async Task<List<Models.Monitor>> GetAllMonitorAsync()
+        public async Task<ObservableCollection<Models.Monitor>> GetAllMonitorAsync()
         {
             Uri uri = new Uri("http://localhost:8080/monitores");
             try
@@ -42,7 +43,7 @@ namespace PAMstudy.Services
                     string content = await response.Content.ReadAsStringAsync();
 
 
-                    monitores = JsonSerializer.Deserialize<List<Models.Monitor>>(content, _serializerOptions);
+                    monitores = JsonSerializer.Deserialize<ObservableCollection<Models.Monitor>>(content, _serializerOptions);
                 }
             }
             catch (Exception ex)

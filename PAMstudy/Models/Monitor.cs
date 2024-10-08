@@ -16,6 +16,7 @@ namespace PAMstudy.Models
         public string Conteudo { get; set; }
         public Disciplina id { get; set; }
         public List<Disponibilidade> Disponibilidades { get; set; }
+        private String idade;
 
 
     }

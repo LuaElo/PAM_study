@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PAMstudy</id>
+    <version>1.0.0</version>
+    <authors>PAMstudy</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="f913e8295454b5dbb587883fa49037edd4a600d4" />
+    <dependencies>
+      <group targetFramework="net8.0-android34.0">
+        <dependency id="Microsoft.Extensions.Logging.Debug" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Controls" version="8.0.61" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Controls.Compatibility" version="8.0.61" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net8.0-ios17.2">
+        <dependency id="Microsoft.Extensions.Logging.Debug" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Controls" version="8.0.61" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Controls.Compatibility" version="8.0.61" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net8.0-maccatalyst17.2">
+        <dependency id="Microsoft.Extensions.Logging.Debug" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Controls" version="8.0.61" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Controls.Compatibility" version="8.0.61" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net8.0-windows10.0.19041">
+        <dependency id="Microsoft.Extensions.Logging.Debug" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Controls" version="8.0.61" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Controls.Compatibility" version="8.0.61" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\3aiEloah_Luara\PAM2\PAM_study\PAMstudy\bin\Debug\net8.0-android\PAMstudy.runtimeconfig.json" target="lib\net8.0-android34.0\PAMstudy.runtimeconfig.json" />
+    <file src="D:\3aiEloah_Luara\PAM2\PAM_study\PAMstudy\bin\Debug\net8.0-android\PAMstudy.dll" target="lib\net8.0-android34.0\PAMstudy.dll" />
+    <file src="D:\3aiEloah_Luara\PAM2\PAM_study\PAMstudy\bin\Debug\net8.0-android\PAMstudy.xml" target="lib\net8.0-android34.0\PAMstudy.xml" />
+    <file src="D:\3aiEloah_Luara\PAM2\PAM_study\PAMstudy\bin\Debug\net8.0-ios\iossimulator-x64\PAMstudy.runtimeconfig.json" target="lib\net8.0-ios17.2\PAMstudy.runtimeconfig.json" />
+    <file src="D:\3aiEloah_Luara\PAM2\PAM_study\PAMstudy\bin\Debug\net8.0-ios\iossimulator-x64\PAMstudy.dll" target="lib\net8.0-ios17.2\PAMstudy.dll" />
+    <file src="D:\3aiEloah_Luara\PAM2\PAM_study\PAMstudy\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\PAMstudy.runtimeconfig.json" target="lib\net8.0-maccatalyst17.2\PAMstudy.runtimeconfig.json" />
+    <file src="D:\3aiEloah_Luara\PAM2\PAM_study\PAMstudy\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\PAMstudy.dll" target="lib\net8.0-maccatalyst17.2\PAMstudy.dll" />
+    <file src="D:\3aiEloah_Luara\PAM2\PAM_study\PAMstudy\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PAMstudy.runtimeconfig.json" target="lib\net8.0-windows10.0.19041\PAMstudy.runtimeconfig.json" />
+    <file src="D:\3aiEloah_Luara\PAM2\PAM_study\PAMstudy\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PAMstudy.dll" target="lib\net8.0-windows10.0.19041\PAMstudy.dll" />
+    <file src="D:\3aiEloah_Luara\PAM2\PAM_study\PAMstudy\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri" target="lib\net8.0-windows10.0.19041\resources.pri" />
+  </files>
+</package>
