@@ -33471,11 +33471,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\3aiEloah_Luara\\PAM2\\PAM_study\\PAMstudy\\PAMstudy.csproj",
+      "projectUniqueName": "C:\\Users\\etechas\\Downloads\\PAM_study\\PAMstudy\\PAMstudy.csproj",
       "projectName": "PAMstudy",
-      "projectPath": "D:\\3aiEloah_Luara\\PAM2\\PAM_study\\PAMstudy\\PAMstudy.csproj",
+      "projectPath": "C:\\Users\\etechas\\Downloads\\PAM_study\\PAMstudy\\PAMstudy.csproj",
       "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-      "outputPath": "D:\\3aiEloah_Luara\\PAM2\\PAM_study\\PAMstudy\\obj\\",
+      "outputPath": "C:\\Users\\etechas\\Downloads\\PAM_study\\PAMstudy\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

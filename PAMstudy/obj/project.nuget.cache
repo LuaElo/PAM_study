@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yQv8yTW4n1M=",
+  "dgSpecHash": "WEwMzoi5BS0=",
   "success": true,
-  "projectFilePath": "D:\\3aiEloah_Luara\\PAM2\\PAM_study\\PAMstudy\\PAMstudy.csproj",
+  "projectFilePath": "C:\\Users\\etechas\\Downloads\\PAM_study\\PAMstudy\\PAMstudy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\etechas\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.1\\communitytoolkit.mvvm.8.2.1.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",

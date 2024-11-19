@@ -52,6 +52,36 @@ namespace PAMstudy.Services
             }
             return monitores;
         }
+       
+        public async Task<Models.Monitor> GetMonitorByIdAsync(long id)
+        {
+            return monitor;
+        }
+
+        public async Task DeleteMonitorAsync(long id)
+        {
+            try
+            {
+                Uri uri = new Uri($"http://localhost:8080/monitores/{id}");
+                client.DeleteAsync(uri);
+            }
+            catch(Exception ) { 
+            
+            }
+        }
+
+        public async Task UpdateMonitorAsync(long id)
+        {
+
+          
+            try{
+                Uri uri = new Uri($"http://localhost:8080/monitores/{id}");
+                client.PutAsync(uri);
+            }
+            catch(Exception) {
+
+            }
+        }
 
     }
 }

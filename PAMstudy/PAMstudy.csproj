@@ -64,6 +64,9 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <MauiXaml Update="Views\CadastroMonitorView.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="Views\MonitorView.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
